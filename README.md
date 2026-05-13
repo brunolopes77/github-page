@@ -6,5 +6,4 @@
 
 - Currículo
 - Apresentação em slides(perfil profissional e pessoal).
-- Linkedin
 - Site(perfil profissional e pessoal).
